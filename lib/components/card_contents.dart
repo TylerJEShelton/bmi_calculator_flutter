@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class CardContents extends StatelessWidget {
   CardContents({@required this.sexName, @required this.sexIcon});
